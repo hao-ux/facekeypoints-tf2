@@ -62,7 +62,7 @@ tensorboard --logdir=path_to_your_logs(就是本项目的logs1文件夹)
 
 ## 4. 预测步骤
 1. 首先在facekeypoints.py文件中，指定好参数
-2. 运行在predict.py即可，如img/1.png
+2. 运行在predict.py即可，如img/face.png
 效果如下：
 
 ![avatar](img/1.png)
